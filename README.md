@@ -2,5 +2,4 @@
 
 ## Fitur
 
-- Membuat pertanyaan secara acak
-- Membuat pertanyaan filsafat
+- Membuat pertanyaan filsafat secara acak
